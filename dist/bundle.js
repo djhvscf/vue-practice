@@ -27873,7 +27873,14 @@ var watchExampleVM = new __WEBPACK_IMPORTED_MODULE_0_Vue___default.a({
       500
     )
   }
-})
+});
+
+var example1 = new __WEBPACK_IMPORTED_MODULE_0_Vue___default.a({
+  el: '#example-1',
+  data: {
+    counter: 0
+  }
+});
 
 /***/ }),
 /* 13 */
